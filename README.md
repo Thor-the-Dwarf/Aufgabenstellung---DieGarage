@@ -22,4 +22,4 @@ Relevante Themenbereiche die ind diesem Projekt angewand wurden:
 - casting
 
 *Es gibt Wege das Programm deutlich recourcenschonender, performanter und schöner zu machen.
-In der jetzigen Variante wird jedoch ein viel breiteres spektrum an Java-tools zu demonstrationszwecken verwendet.
+In der jetzigen Variante wird jedoch ein viel breiteres Spektrum an Java-Teilbereichen zum Demonstrationszweck verwendet.

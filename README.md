@@ -1,6 +1,7 @@
 # DieGarage
 
 Kleine GUI zur Verwaltung eines Parkhauses.
+
 Man kann:
 - Parkdecks sowie Parkreihen erzeugen und löschen.
 - Motorräder und PKW´s herein und heraus fahren lassen

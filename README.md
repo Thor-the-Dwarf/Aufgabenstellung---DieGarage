@@ -28,4 +28,5 @@ Relevante Themenbereiche die ind diesem Projekt angewand wurden:
 
 *Es gibt Wege das Programm deutlich recourcenschonender, performanter und schöner zu machen.
 In der jetzigen Variante wird jedoch ein viel breiteres Spektrum an Java-Teilbereichen zum Demonstrationszweck verwendet.
+
 ** Die Fehler, dass beim ersten Start kein oder wenig Menue gezeigt werden könnte und das nur PKW´s gefunden werden können sind bekannt aber aus Zeitmangel noch nicht behoben worden.
